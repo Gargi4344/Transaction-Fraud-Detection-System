@@ -54,5 +54,5 @@ Use Power BI to connect to the MongoDB dataset for advanced analytics and fraud 
 - Deploy via AWS EC2 or Azure Web Apps  
 
 ## 🧑‍💻 Author
-**Pruthvirajsinh Rathod**  
+**Gargi Rami**  
 Transaction Fraud Detection System | © 2025
