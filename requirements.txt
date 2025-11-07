@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+Flask-PyMongo
+scikit-learn
+pandas
+joblib
+numpy
