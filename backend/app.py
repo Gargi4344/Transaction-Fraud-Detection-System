@@ -10,6 +10,7 @@ CORS(app)
 app.config["MONGO_URI"] = "mongodb://localhost:27017/fraud_detection"
 mongo = PyMongo(app)
 
+// loading the model
 model = joblib.load("models/fraud_model.pkl")
 
 @app.route("/")
